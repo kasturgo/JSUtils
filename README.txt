@@ -1,0 +1,1 @@
+This project contains little snippets of Javascript that help in trivial tasks.
